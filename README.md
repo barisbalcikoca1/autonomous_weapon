@@ -2,6 +2,11 @@
 
 Project designed to make autonomous weapons with Arduino.
 
+## Project View
+![foto1](https://github.com/barisbalcikoca1/autonomous_weapon/assets/86593147/3d0f39db-4987-4afb-abd7-ab89eb23b8cf)
+![foto2](https://github.com/barisbalcikoca1/autonomous_weapon/assets/86593147/49045703-fee3-49ce-9184-11b8722757be)
+
+
 ## Tools Used
 
 #### ESP32
